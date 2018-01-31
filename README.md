@@ -1,2 +1,3 @@
 # hello-world
-it's a thing
+# it's a thing
+# i don't know what lang this's
